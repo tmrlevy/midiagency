@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.50533359.css",
+    "main.js": "./static/js/main.3f342439.js",
+    "static/media/release2.png": "./static/media/release2.5f090829c6a47ac7b72e.png",
+    "static/media/super1.png": "./static/media/super1.af16f76a73d280f41036.png",
+    "static/media/crown.webp": "./static/media/crown.26ff60e5c50a6d16f357.webp",
+    "static/media/icon.webp": "./static/media/icon.7846055a4d6edd3f5730.webp",
+    "static/media/clients4.svg": "./static/media/clients4.685290020683589e5032eb14b5d0c81d.svg",
+    "static/media/clients2.svg": "./static/media/clients2.bc570bdec10ff8c551f5bf8076ef2619.svg",
+    "static/media/clients3.svg": "./static/media/clients3.922366a1a7887f5f24b077dc9ae42f1c.svg",
+    "static/media/clients1.svg": "./static/media/clients1.5300516046a35ead9d7c56817460ccce.svg",
+    "static/media/medal.webp": "./static/media/medal.c9ecebef14bf56a81664.webp",
+    "static/media/yuval.jpeg": "./static/media/yuval.2ed1ae6e75a8911ca353.jpeg",
+    "static/media/mixer.png": "./static/media/mixer.6380270726e0d14ea843.png",
+    "static/media/artclub.jpeg": "./static/media/artclub.3a735b3b49f31694e20a.jpeg",
+    "static/media/logo.png": "./static/media/logo.c302ffd44af50608b9bc.png",
+    "static/media/letter.png": "./static/media/letter.3a0164a769460156bd5b.png",
+    "static/media/clients5.svg": "./static/media/clients5.59bff142e03b4084fb9519c85a9d9c56.svg",
+    "index.html": "./index.html",
+    "static/media/MIDI_LOGO.svg": "./static/media/MIDI_LOGO.35570ea23344d03e8c556c7c7437379c.svg",
+    "main.50533359.css.map": "./static/css/main.50533359.css.map",
+    "main.3f342439.js.map": "./static/js/main.3f342439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50533359.css",
+    "static/js/main.3f342439.js"
+  ]
+}
